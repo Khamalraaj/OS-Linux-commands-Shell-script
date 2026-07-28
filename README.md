@@ -42,7 +42,7 @@ s.n. dasgupta
 ### Display the content of the files
 cat < file1
 ## OUTPUT
-![file1](/home/khamalraaj/OS/ex01/images/file1.png)
+![img](./images/file1.png)
 
 
 cat < file2
