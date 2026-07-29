@@ -27,7 +27,7 @@ cat > file1
 chanchal singhvi
 c.k. shukla
 s.n. dasgupta
-sumit chakrobarty
+Khamalraaj S
 ^d
 ```
 cat > file2
